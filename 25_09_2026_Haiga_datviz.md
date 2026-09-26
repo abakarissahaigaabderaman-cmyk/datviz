@@ -2,7 +2,7 @@
 
 **Dans quelle mesure la répartition des vélos mécaniques et électriques révèle-t-elle des tensions et des risques de pénurie sur le réseau ?**
 
-![Disponibilité des vélos par type et par station](nom_de_ton_image.png)
+![Disponibilité des vélos par type et par station](disponibilite_velos_25_09_2026.png)
 
 ### Analyse du graphique
 
