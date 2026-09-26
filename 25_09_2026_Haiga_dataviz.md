@@ -4,6 +4,8 @@
 
 
 
+
+
 ![Disponibilité des vélos par type et par station](disponibilite_velos_25_09_2026.png)
 
 ### Analyse du graphique
