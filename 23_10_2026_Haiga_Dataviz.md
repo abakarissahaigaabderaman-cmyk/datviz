@@ -32,4 +32,3 @@ Le jeu de données contient des informations sur les jeux vidéo, notamment leur
 - **Ventes mondiales par type de jeu vidéo** : comparaison des ventes selon les catégories de jeux.
 - **Évolution des ventes mondiales par année** : suivi des ventes en fonction de l'année de sortie.
 - **Répartition des ventes mondiales selon les zones géographiques** : comparaison des ventes en Amérique du Nord, en Europe, au Japon et dans les autres régions.
-- 
