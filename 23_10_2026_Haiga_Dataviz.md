@@ -14,7 +14,7 @@ Ce tableau de bord présente les ventes mondiales de jeux vidéo. Il permet de c
 
 ## Réponse à la problématique
 
-En observant le tableau de bord, on voit d’abord que les jeux d’action sont ceux qui se vendent le plus. Ensuite, quand on regarde l’évolution des ventes au fil des années, on remarque une forte progression jusqu’aux années 2000–2010, avant de se stabiliser. Pour finir, la répartition géographique montre que l’Amérique du Nord et l’Europe sont les régions qui contribuent le plus aux ventes mondiales, suivies par le Japon puis les autres zones.
+En observant le tableau de bord, on voit d’abord que les jeux d’action sont ceux qui se vendent le plus. Ensuite, quand on regarde l’évolution des ventes au fil des années, on remarque une forte progression jusqu’aux années 2000–2010, avant de se stabiliser sur les années suivantes. Pour finir, la répartition géographique montre que l’Amérique du Nord et l’Europe sont les régions qui contribuent le plus aux ventes mondiales, suivies par le Japon puis les autres zones.
 
 ## Outil utilisé
 
