@@ -2,33 +2,31 @@
 
 ## Problématique
 
-Quels sont les types de jeux vidéo qui génèrent le plus de ventes, comment les ventes mondiales évoluent-elles au fil des années et comment se répartissent-elles selon les zones géographiques ?
+Quels types de jeux vidéo génèrent le plus de ventes et comment les ventes se répartissent-elles dans le monde ?
 
 ## Tableau de bord Power BI
 
 ![Tableau de bord Power BI](jeux%20vid%C3%A9oss.png)
 
-## Présentation du projet
+## Présentation du tableau de bord
 
-Ce projet consiste à analyser les ventes mondiales de jeux vidéo à l'aide de Power BI. Le tableau de bord permet d'explorer les ventes selon les types de jeux, leur évolution au fil des années et leur répartition géographique.
+Ce tableau de bord présente les ventes mondiales de jeux vidéo. Il permet de comparer les ventes selon les types de jeux vidéo, de suivre leur évolution en fonction des années de sortie et de voir comment les ventes se répartissent entre l'Amérique du Nord, l'Europe, le Japon et les autres régions.
 
-## Objectifs
+## Réponse à la problématique
 
-- Comparer les ventes mondiales selon les types de jeux vidéo.
-- Observer l'évolution des ventes mondiales par année de sortie.
-- Étudier la répartition des ventes entre les différentes zones géographiques.
-- Présenter les résultats à travers un tableau de bord interactif.
+D’après le tableau de bord :
+
+- **Types de jeux qui génèrent le plus de ventes :**  
+  Les jeux d’**action** sont ceux qui réalisent le plus de ventes au niveau mondial, suivis notamment par les jeux de **tir (shooter)** et les jeux de **sport**. Les jeux de rôle, de plateforme et la catégorie « divers » génèrent des ventes plus faibles en comparaison.
+
+- **Évolution des ventes dans le temps :**  
+  Les ventes mondiales de jeux vidéo augmentent progressivement entre les années 1980 et le début des années 2000, avec un **pic important autour des années 2000–2010**, avant de se stabiliser ou légèrement diminuer sur les années plus récentes.
+
+- **Répartition géographique des ventes :**  
+  L’**Amérique du Nord** est la région qui contribue le plus aux ventes mondiales (environ **37 %**), suivie par l’**Europe** (environ **28 %**). Le **Japon** représente près de **20 %** des ventes, tandis que les **autres régions** comptent pour environ **15 %**.
+
+Ainsi, les jeux d’action dominent les ventes mondiales, avec une forte concentration des ventes en Amérique du Nord et en Europe, et une dynamique de croissance marquée sur les années 2000, ce qui permet de mieux comprendre quels types de jeux et quelles régions portent le marché mondial du jeu vidéo.
 
 ## Outil utilisé
 
-- **Power BI** : préparation des données et création des visualisations.
-
-## Données utilisées
-
-Le jeu de données contient des informations sur les jeux vidéo, notamment leur titre, leur console, leur année de sortie, leur genre, leur éditeur et leurs ventes dans différentes zones géographiques.
-
-## Visualisations réalisées
-
-- **Ventes mondiales par type de jeu vidéo** : comparaison des ventes selon les genres.
-- **Évolution des ventes mondiales par année** : observation des ventes en fonction de l'année de sortie.
-- **Répartition des ventes mondiales selon les zones géographiques** : comparaison des ventes en Amérique du Nord, en Europe, au Japon et dans les autres régions.
+Power BI
